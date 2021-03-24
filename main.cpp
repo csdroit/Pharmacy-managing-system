@@ -200,8 +200,6 @@ int main() {
         remove("_0.txt");
         return EXIT_SUCCESS;
     } else { 
-    cout << " windows is not comming soon haha." << endl; 
     return EXIT_FAILURE; 
-    
     }
 }
